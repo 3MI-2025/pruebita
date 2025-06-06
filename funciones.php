@@ -4,7 +4,8 @@
     }
 
     function dosMasDos(){
-        return 2+2;
+	$tipo = "string";
+        return "Dos mas dos";
     }
 
     function tresMasTres(){
