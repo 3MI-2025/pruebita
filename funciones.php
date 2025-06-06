@@ -3,8 +3,12 @@
         return "Hola";
     }
 
-    function dosMasDos(){
-        return 2+2;
+    function dosMasDos($num1,$num2){
+        $tipo = "int";
+        if($num1 != NULL)
+      	   return 2+2;
+        return $num1+$num2;
+
     }
 
     function tresMasTres(){
