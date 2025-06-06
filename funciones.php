@@ -6,3 +6,7 @@
     function dosMasDos(){
         return 2+2;
     }
+
+    function tresMasTres(){
+        return 3+3;
+    }
