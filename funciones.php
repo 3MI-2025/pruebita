@@ -7,9 +7,9 @@
         $tipo = "int";
         if($num1 != NULL)
       	   return 2+2;
-        return $num1+$num2;
-
+	return $num1+$num2;
     }
+
 
     function tresMasTres(){
         return 3+3;
